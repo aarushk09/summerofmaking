@@ -148,7 +148,7 @@ export default function LandingPage() {
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900">Clean Code</h3>
                 <p className="text-gray-600">
-                  Export production-ready Manim code that's well-structured, commented, and easy to customize for your
+                  Export production-ready Manim code that is well-structured, commented, and easy to customize for your
                   specific needs.
                 </p>
               </CardContent>
